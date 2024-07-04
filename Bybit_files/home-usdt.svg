@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>USDT</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#69DAB7" offset="0%"></stop>
+            <stop stop-color="#26A17B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M18.8,0.6 C8.85903449,0.6 0.8,8.65903449 0.8,18.6 C0.8,28.5409655 8.85903449,36.6 18.8,36.6 C28.7409655,36.6 36.8,28.5409655 36.8,18.6 C36.8,8.65903449 28.7409655,0.6 18.8,0.6 Z" id="path-2"></path>
+        <filter x="-8.3%" y="-8.3%" width="116.7%" height="116.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="2.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.344869974 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1920已登录" transform="translate(-600.000000, -910.000000)">
+            <g id="app引导下载" transform="translate(103.000000, 715.000000)">
+                <g id="iphone">
+                    <g id="USDT" transform="translate(497.000000, 195.000000)">
+                        <g id="Path">
+                            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        </g>
+                        <path d="M26.6449018,13.7228382 L26.6449018,10 L11.3901736,10 L11.3901736,13.7228382 L17.0141098,13.7228382 L17.0141098,16.1550731 C12.4424893,16.3605031 9,17.2609672 9,18.3413385 C9,19.4217363 12.4424628,20.3221474 17.0141098,20.5276039 L17.0141098,28.3333333 L21.0209921,28.3333333 L21.0209921,20.5257732 C25.574982,20.3172391 29,19.4184199 29,18.3413119 C29,17.2640714 25.574982,16.3649603 21.0209921,16.1566915 L21.0209921,13.7228117 L26.6449018,13.7228117 L26.6449018,13.7228382 Z M27.2776667,18.121396 C27.2776667,18.8319508 24.6157847,19.4279711 21.0209921,19.5934453 L20.7886872,19.6032883 L20.7630112,19.6032883 L20.5451772,19.6113007 L20.5215989,19.6113007 C20.3595775,19.6168457 20.1955913,19.6215947 20.029534,19.6253356 L20.0192317,19.6253356 L19.7964856,19.629952 L19.7335304,19.629952 L19.557755,19.6323133 L18.4446082,19.6323133 L18.2706383,19.629952 L18.2102056,19.629952 L18.0023817,19.6256009 L17.9795469,19.6256009 C17.7332223,19.620109 17.4906151,19.6125211 17.2515925,19.6032883 L17.2484593,19.6032883 L17.0104987,19.5929943 C13.3977834,19.4300405 10.7187488,18.8319508 10.7187488,18.118 C10.7187488,17.40389 13.3982348,16.8075779 17.0104987,16.6428201 L17.0104987,18.9007989 C17.6375814,18.9334587 18.3046517,18.9513671 18.9964951,18.9513671 C19.6993577,18.9513671 20.3798899,18.9331668 21.0175404,18.8989948 L21.0175404,16.6495324 C24.6154661,16.8145821 27.2776667,17.4108942 27.2776667,18.121396 L27.2776667,18.121396 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

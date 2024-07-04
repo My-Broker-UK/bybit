@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="209px" height="136px" viewBox="0 0 209 136" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>正在关注part备份</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-5.6%" y="-12.5%" width="111.1%" height="125.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.256364729 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <rect id="path-2" x="0" y="0" width="189" height="83.3823529" rx="10.0058824"></rect>
+        <linearGradient x1="61.3865238%" y1="100%" x2="61.3865238%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#1B1C23" offset="0%"></stop>
+            <stop stop-color="#39CC44" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="5.34635417%" y1="69.5712195%" x2="95.0171875%" y2="69.5712195%" id="linearGradient-5">
+            <stop stop-color="#3ED3B6" offset="0%"></stop>
+            <stop stop-color="#4ED16B" offset="52.9442173%"></stop>
+            <stop stop-color="#3ED3B6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M8.89411765,4.44705882 C8.89411765,6.90310844 6.90310844,8.89411765 4.44705882,8.89411765 C1.9910092,8.89411765 0,6.90310844 0,4.44705882 C0,1.9910092 1.9910092,0 4.44705882,0 C6.90310844,0 8.89411765,1.9910092 8.89411765,4.44705882 Z" id="path-6"></path>
+        <filter x="-16.9%" y="-16.9%" width="133.7%" height="133.7%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1920已登录" transform="translate(-623.000000, -1133.000000)">
+            <g id="app引导下载" transform="translate(103.000000, 715.000000)">
+                <g id="iphone">
+                    <g id="正在关注part备份" filter="url(#filter-1)" transform="translate(624.500000, 485.000000) rotate(-16.000000) translate(-624.500000, -485.000000) translate(530.000000, 443.000000)">
+                        <g id="BTC">
+                            <g id="编组">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <use id="块1" fill="#1B1C23" xlink:href="#path-2"></use>
+                                <path d="M128.117594,43.8625999 L119.316404,44.9252928 L110.152509,53.5510618 L101.759638,50.6131385 L92.5995985,68.5062574 L84.5093629,70.3325732 L75.3390417,67.0093039 L66.5128803,68.8072276 L57.5088017,72.9080941 L49.1301958,71.8028292 L39.842636,79.8527738 L31.3151385,73.4862277 L22.2284659,76.6365281 L13.4866644,70.2711694 L4.71867116,77.3803002 L-3.78807491,77.7583573 L-8.73147826,80.6154026 L-10.445256,84.2300888 L198.727941,84.2300888 L198.727941,69.6048723 L190.277492,69.6048723 L181.214082,71.3193298 L172.499771,61.7560942 L162.251654,67.0813941 L154.629012,77.7489757 L145.873039,77.3799568 L136.997322,70.4540623 L128.117594,43.8625999 Z" id="路径-3" stroke="url(#linearGradient-5)" stroke-width="0.555882353" fill-opacity="0.5" fill="url(#linearGradient-4)" opacity="0.828887649" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-3)"></path>
+                            </g>
+                            <g id="涨跌幅" transform="translate(138.970588, 11.117647)">
+                                <rect id="矩形" fill="#39CC44" x="0" y="0" width="33.3529412" height="13.3411765" rx="1.11176471"></rect>
+                                <text id="7.69%" font-family="DINAlternate-Bold, DIN Alternate" font-size="7.78235294" font-weight="bold" line-spacing="7.78235294" fill="#FFFFFF">
+                                    <tspan x="10.7338235" y="9.77941176">7.69%</tspan>
+                                </text>
+                                <text id="+" font-family="DINAlternate-Bold, DIN Alternate" font-size="6.67058824" font-weight="bold" line-spacing="7.78235294" fill="#FFFFFF">
+                                    <tspan x="5.83823529" y="8.77941176">+</tspan>
+                                </text>
+                            </g>
+                            <text id="BTCUSD" font-family="DINPro-Regular, DINPro" font-size="8.89411765" font-weight="normal" line-spacing="8.89411765" fill="#FFFFFF">
+                                <tspan x="28.800749" y="20.6735294">BTCUSD</tspan>
+                            </text>
+                            <text id="$12,785.50" font-family="DINPro-Regular, DINPro" font-size="15.5647059" font-weight="normal" line-spacing="15.5647059" fill="#39CC44">
+                                <tspan x="16.6764706" y="45.4617647">$12,785.50</tspan>
+                            </text>
+                            <g id="bitcoin-3" transform="translate(17.232353, 12.229412)">
+                                <circle id="椭圆形" fill="#FFFFFF" cx="4.44705882" cy="4.44705882" r="4.44705882"></circle>
+                                <g id="路径" fill-rule="nonzero">
+                                    <use fill="#FFB11A" xlink:href="#path-6"></use>
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                                </g>
+                                <path d="M6.354076,3.81353226 C6.44260474,3.22180446 5.99201727,2.9036963 5.37590237,2.69149269 L5.57576898,1.88991034 L5.08779393,1.76831556 L4.89321717,2.54877438 C4.76493387,2.51680218 4.63317182,2.48665901 4.50225256,2.45678482 L4.69822799,1.67119753 L4.21052192,1.54960275 L4.01052979,2.3508982 C3.90433833,2.32670835 3.80010142,2.30280541 3.69893083,2.27766518 L3.69948672,2.27515474 L3.02651044,2.10713482 L2.89670294,2.62826556 C2.89670294,2.62826556 3.25876167,2.71123548 3.25112277,2.71636395 C3.44876584,2.76569402 3.48448577,2.89646983 3.47849658,3.00013292 L3.25083586,3.91330417 C3.26446395,3.91678292 3.28210873,3.92178586 3.30156461,3.92956822 C3.28530057,3.92553359 3.26792476,3.92108653 3.24999307,3.91678292 L2.93088074,5.19599374 C2.90669089,5.25602903 2.84540038,5.34608197 2.70725465,5.31190417 C2.71211414,5.31898719 2.35256584,5.22337543 2.35256584,5.22337543 L2.11030873,5.78189374 L2.74534156,5.94017676 C2.86347552,5.96978197 2.97926044,6.00076793 3.09321632,6.02994279 L2.89126964,6.84068824 L3.3786888,6.96228302 L3.57868093,6.16014478 C3.70794241,6.19517644 3.83757813,6.22881227 3.96756546,6.26104639 L3.76825474,7.05941898 L4.25622979,7.18101376 L4.45817647,6.3717925 C5.29027856,6.52925066 5.91600484,6.46573662 6.17936755,5.71321537 C6.39160702,5.10730361 6.16880579,4.75779706 5.73100361,4.52988529 C6.04982903,4.45640123 6.29000607,4.24670806 6.354076,3.81353226 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                <path d="M5.23913738,5.37679896 C5.08833188,5.98271072 4.06805465,5.65515256 3.73726879,5.57302543 L4.00523994,4.4989352 C4.33600787,4.58147476 5.39673899,4.74490417 5.23913738,5.37679896 Z" id="路径" fill="#FFB11A" fill-rule="nonzero"></path>
+                                <path d="M5.39006841,3.80478159 C5.25247856,4.35592998 4.40326964,4.07590873 4.12780304,4.00726622 L4.37074156,3.03309137 C4.64622609,3.10173387 5.53336053,3.22985579 5.39006841,3.80478159 Z" id="路径" fill="#FFB11A" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

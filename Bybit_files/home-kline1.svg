@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="175px" height="155px" viewBox="0 0 175 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>编组 2备份</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="144.72" height="116.208" rx="7.776"></rect>
+        <filter x="-4.8%" y="-4.3%" width="109.7%" height="112.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="24.624" y="51.84" width="111.456" height="1"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="111.456" height="0.216" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="24.624" y="34.128" width="111.456" height="1"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="111.456" height="0.216" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="24.624" y="104.112" width="111.456" height="1"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="111.456" height="0.216" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="24.624" y="86.832" width="111.456" height="1"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="111.456" height="0.216" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1920已登录" transform="translate(-508.000000, -960.000000)">
+            <g id="app引导下载" transform="translate(103.000000, 715.000000)">
+                <g id="iphone">
+                    <g id="编组-2备份" transform="translate(492.774230, 321.266322) rotate(-345.000000) translate(-492.774230, -321.266322) translate(420.274230, 262.766322)">
+                        <g id="Rectangle">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#17181E" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="编组" opacity="0.2" transform="translate(127.440000, 7.344000)" fill="#FFFFFF">
+                            <path d="M8.23340571,3.92063657 C8.01776571,3.92063657 7.84131429,4.097088 7.84131429,4.312728 C7.84131429,6.25343657 6.25345714,7.84129371 4.31274857,7.84129371 C2.37198857,7.84129371 0.784131429,6.25343657 0.784131429,4.312728 C0.784131429,2.37201943 2.37198857,0.784162286 4.31274857,0.784162286 C4.52833714,0.784162286 4.70478857,0.607710857 4.70478857,0.392070857 C4.70478857,0.176430857 4.52833714,3.08571429e-05 4.31274857,3.08571429e-05 C1.94076,3.08571429e-05 0,1.94073943 0,4.312728 C0,6.68471657 1.94076,8.62542514 4.31274857,8.62542514 C6.68473714,8.62542514 8.62544571,6.68471657 8.62544571,4.312728 C8.62544571,4.097088 8.44899429,3.92063657 8.23340571,3.92063657" id="Fill-1"></path>
+                            <path d="M6.03779657,1.176192 L6.80233371,1.27421486 L4.03825371,4.03824343 C3.881448,4.19510057 3.881448,4.43033486 4.03825371,4.58714057 C4.11673371,4.66562057 4.21470514,4.70475771 4.312728,4.70475771 C4.41069943,4.70475771 4.50877371,4.66562057 4.58715086,4.58714057 L7.35123086,1.823112 L7.44925371,2.58759771 C7.468848,2.78369486 7.64529943,2.94050057 7.84129371,2.94050057 L7.900128,2.94050057 C8.115768,2.92090629 8.27257371,2.72486057 8.23338514,2.50922057 L8.07657943,1.23502629 C8.03733943,0.882123429 7.74327086,0.588054857 7.39047086,0.548917714 L6.11622514,0.392060571 C5.90058514,0.372466286 5.70459086,0.509677714 5.68499657,0.725317714 C5.66535086,0.940957714 5.822208,1.136952 6.03779657,1.176192" id="Fill-3"></path>
+                        </g>
+                        <g id="仓位选择" transform="translate(9.936000, 7.344000)">
+                            <g id="编组-15" transform="translate(45.792000, 3.456000)" fill="#FFFFFF" font-family="PingFangSC-Regular, PingFang SC" font-size="4.32" font-weight="normal" line-spacing="4.32" opacity="0.2">
+                                <text id="90D">
+                                    <tspan x="1.404" y="4.20736">90D</tspan>
+                                </text>
+                            </g>
+                            <g id="编组-13">
+                                <rect id="Rectangle-20-Copy-6" stroke="#2C343E" stroke-width="0.54" fill="#FFFFFF" opacity="0.1" x="0.27" y="0.27" width="18.036" height="10.692" rx="5.184"></rect>
+                                <text id="7D" font-family="PingFangSC-Regular, PingFang SC" font-size="4.32" font-weight="normal" line-spacing="4.32" fill="#FFB11A">
+                                    <tspan x="6.27048" y="7.66336">7D</tspan>
+                                </text>
+                            </g>
+                            <g id="编组-14" transform="translate(21.168000, 0.000000)" opacity="0.2">
+                                <rect id="Rectangle-20-Copy-6" stroke="#FFFFFF" stroke-width="0.54" x="0.27" y="0.27" width="18.036" height="10.692" rx="5.184"></rect>
+                                <rect id="Rectangle-20-Copy-6" stroke="#FFFFFF" stroke-width="0.54" x="21.006" y="0.27" width="18.036" height="10.692" rx="5.184"></rect>
+                                <text id="30D" font-family="PingFangSC-Regular, PingFang SC" font-size="4.32" font-weight="normal" line-spacing="4.32" fill="#FFFFFF">
+                                    <tspan x="5.076" y="7.66336">30D</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <rect id="Rectangle-Copy-4" fill="#FFFFFF" opacity="0.1" x="24.624" y="69.336" width="111.456" height="1"></rect>
+                        <use id="Rectangle-Copy-4复制" stroke-opacity="0.703398164" stroke="#FFFFFF" mask="url(#mask-4)" stroke-width="1.08" opacity="0.1" stroke-dasharray="1.296000051498413,2.160000085830688" xlink:href="#path-3"></use>
+                        <use id="Rectangle-Copy-4复制" stroke-opacity="0.703398164" stroke="#FFFFFF" mask="url(#mask-6)" stroke-width="1.08" opacity="0.1" stroke-dasharray="1.296000051498413,2.160000085830688" xlink:href="#path-5"></use>
+                        <use id="Rectangle-Copy-4复制-2" stroke-opacity="0.703398164" stroke="#FFFFFF" mask="url(#mask-8)" stroke-width="1.08" opacity="0.1" stroke-dasharray="1.296000051498413,2.160000085830688" xlink:href="#path-7"></use>
+                        <use id="Rectangle-Copy-4复制" stroke-opacity="0.703398164" stroke="#FFFFFF" mask="url(#mask-10)" stroke-width="1.08" opacity="0.1" stroke-dasharray="1.296000051498413,2.160000085830688" xlink:href="#path-9"></use>
+                        <polyline id="Path-6" stroke="#38C843" stroke-width="0.54" stroke-linecap="round" stroke-linejoin="round" points="29.808 69.5531803 35.4831799 53.7816393 42.0410799 59.7481967 49.7490531 50.976 61.9959679 79.135082 68.1228191 62.0002623 75.0517044 59.7481967 81.0532208 53.7816393 89.5773005 47.52 95.6686795 53.7816393 104.727653 51.84 112.068546 57.952918 119.386574 64.231082 130.032 53.7816393"></polyline>
+                        <text id="12-1" font-family="DINAlternate-Bold, DIN Alternate" font-size="5.184" font-weight="bold" fill="#8D9799">
+                            <tspan x="35.424" y="79.736">12-1</tspan>
+                        </text>
+                        <text id="0" font-family="DINAlternate-Bold, DIN Alternate" font-size="5.184" font-weight="bold" fill="#8D9799">
+                            <tspan x="18.144" y="71.528">0</tspan>
+                        </text>
+                        <text id="-75" font-family="DINAlternate-Bold, DIN Alternate" font-size="5.184" font-weight="bold" fill="#8D9799">
+                            <tspan x="12.096" y="89.24">-75</tspan>
+                        </text>
+                        <text id="-150" font-family="DINAlternate-Bold, DIN Alternate" font-size="5.184" font-weight="bold" fill="#8D9799">
+                            <tspan x="9.936" y="106.52">-150</tspan>
+                        </text>
+                        <text id="75" font-family="DINAlternate-Bold, DIN Alternate" font-size="5.184" font-weight="bold" fill="#8D9799">
+                            <tspan x="15.552" y="54.248">75</tspan>
+                        </text>
+                        <text id="150" font-family="DINAlternate-Bold, DIN Alternate" font-size="5.184" font-weight="bold" fill="#8D9799">
+                            <tspan x="12.96" y="36.536">150</tspan>
+                        </text>
+                        <text id="12-7" font-family="DINAlternate-Bold, DIN Alternate" font-size="5.184" font-weight="bold" fill="#8D9799">
+                            <tspan x="114.048" y="79.736">12-7</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

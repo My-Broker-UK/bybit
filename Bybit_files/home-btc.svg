@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="37px" viewBox="0 0 37 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63 (92445) - https://sketch.com -->
+    <title>bitcoin icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="2.14315878%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FBDC70" offset="0%"></stop>
+            <stop stop-color="#F6B73D" offset="100%"></stop>
+        </linearGradient>
+        <path d="M36,18 C36,27.9411532 27.9411532,36 18,36 C8.05884677,36 0,27.9411532 0,18 C0,8.05884677 8.05884677,0 18,0 C27.9411532,0 36,8.05884677 36,18 Z" id="path-2"></path>
+        <filter x="-12.5%" y="-12.5%" width="125.0%" height="125.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="4" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="2.14315878%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FBDC70" offset="0%"></stop>
+            <stop stop-color="#F6B73D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.14315878%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FBDC70" offset="0%"></stop>
+            <stop stop-color="#F6B73D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1920已登录" transform="translate(-624.000000, -1275.000000)">
+            <g id="app引导下载" transform="translate(103.000000, 715.000000)">
+                <g id="iphone">
+                    <g id="bitcoin-icon" transform="translate(521.600000, 560.800000)">
+                        <circle id="椭圆形" fill="#FFFFFF" cx="18" cy="18" r="18"></circle>
+                        <g id="路径" fill-rule="nonzero">
+                            <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        </g>
+                        <path d="M25.718879,15.4357258 C26.0772097,13.0406371 24.2534032,11.7530565 21.7596048,10.8941371 L22.5685887,7.6496371 L20.5934516,7.15746774 L19.805879,10.3164677 C19.2866371,10.1870565 18.7533145,10.0650484 18.2234032,9.94412903 L19.0166371,6.76437097 L17.0425887,6.27220161 L16.2330968,9.51554032 C15.8032742,9.41762903 15.3813629,9.32087903 14.9718629,9.21912097 L14.9741129,9.20895968 L12.2501613,8.52887903 L11.72475,10.6382177 C11.72475,10.6382177 13.1902258,10.9740484 13.1593065,10.9948065 C13.9592903,11.1944758 14.103871,11.7238065 14.079629,12.1433952 L13.1581452,15.8395645 C13.2133065,15.8536452 13.2847258,15.8738952 13.3634758,15.9053952 C13.2976452,15.8890645 13.2273145,15.8710645 13.1547339,15.8536452 L11.8630887,21.0314032 C11.7651774,21.2744032 11.5170968,21.6389032 10.9579355,21.5005645 C10.9776048,21.5292339 9.52229032,21.1422339 9.52229032,21.1422339 L8.54172581,23.4029032 L11.1120968,24.0435726 C11.5902581,24.1634032 12.0589113,24.2888226 12.5201613,24.4069113 L11.7027581,27.6885 L13.6756452,28.1806694 L14.4851371,24.9339194 C15.0083383,25.0757142 15.5330543,25.2118592 16.0591935,25.3423306 L15.2524597,28.5738387 L17.2275968,29.0660081 L18.045,25.7905887 C21.4130323,26.4279194 23.9457339,26.1708387 25.0117258,23.1249194 C25.8707903,20.6724194 24.9689758,19.25775 23.1969194,18.33525 C24.4874032,18.0378145 25.4595484,17.1890565 25.718879,15.4357258 Z" id="路径" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <path d="M21.2060323,21.7632339 C20.595629,24.2157339 16.4659355,22.8899032 15.1270403,22.5574839 L16.2116855,18.2099758 C17.5505081,18.5440645 21.8439435,19.2055645 21.2060323,21.7632339 Z" id="路径" fill="url(#linearGradient-4)" fill-rule="nonzero"></path>
+                        <path d="M21.8169435,15.4003065 C21.2600323,17.6311452 17.8227581,16.4977258 16.7077742,16.2198871 L17.6910968,12.2767984 C18.8061532,12.5546371 22.3969355,13.0732258 21.8169435,15.4003065 Z" id="路径" fill="url(#linearGradient-5)" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
